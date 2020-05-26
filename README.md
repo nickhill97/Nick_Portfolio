@@ -9,6 +9,8 @@ The purpose of this project was to use machine learning to predict premier leagu
 - Used a custom function to create interaction terms and relative statistics between the two teams.
 - Used a weighted F1 statistic and GridSearchCV to find the best model and optimise the parameters.
 
+<img src='images/football_predictions.png'/>
+
 # [Berlin AirBnb](https://github.com/nickhill97/berlin_airbnb)
 
 The purpose of this project was to create a model that predicts the price a listing on AirBnb in Berlin based on features of the listing. The potential of a model like this could be to help a new host set the price of their listing. The goal would be to create a resource that airbnb hosts could input the information of their property and the model would predict how much the property should be placed on airbnb for. The final model has a mean absolute error of $17.17.
@@ -17,6 +19,8 @@ The purpose of this project was to create a model that predicts the price a list
 - Calculated the absolute distance from popular tourist spots using latitude and longitude coordinates.
 - Used random forest feature importance to perform feature selection.
 - Used GridSearchCV to tune the parameters in the final model.
+
+<img src='images/berlin_airbnb.png'/>
 
 # [Titanic Project Overview](https://github.com/nickhill97/titanic)
 
@@ -30,5 +34,5 @@ The data was already split into a training and test set, where the test set did 
 - Used K fold cross validation to estimate the accuracy of the models.
 - The best model was a SVC with mean accuracy of 0.834 from the K fold cross validation models.
 
-
+<img src='images/titanic.png'/>
 
