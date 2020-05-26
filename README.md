@@ -1,5 +1,3 @@
-
-
 # [Football Result Prediction Project Overview](https://github.com/nickhill97/football_predictions)
 
 The purpose of this project was to use machine learning to predict premier league results. This could have many uses, for example, betting or management of a premier league team. The best model that I trained to solve this problem was a logistic regression model that predicted whether a team would win or not, this had an accuracy of 0.69.
@@ -9,7 +7,7 @@ The purpose of this project was to use machine learning to predict premier leagu
 - Used a custom function to create interaction terms and relative statistics between the two teams.
 - Used a weighted F1 statistic and GridSearchCV to find the best model and optimise the parameters.
 
-<img src='images/football_predictions.png' width=600 />
+<img src='images/football_predictions.png' width='600' />
 
 # [Berlin AirBnb](https://github.com/nickhill97/berlin_airbnb)
 
