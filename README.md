@@ -1,5 +1,14 @@
 # Nick Hill Portfolio
 
+# [Football Result Prediction Project Overview](https://github.com/nickhill97/football_predictions)
+
+The purpose of this project was to use machine learning to predict premier league results. This could have many uses, for example, betting or management of a premier league team. The best model that I trained to solve this problem was a logistic regression model that predicted whether a team would win or not, this had an accuracy of 0.69.
+
+- Collected the premier league fixtures data from the last 10 years from an API endpoint using a Python script.
+- Calculated statistics that were correct at the time the games were played.
+- Used a custom function to create interaction terms and relative statistics between the two teams.
+- Used a weighted F1 statistic and GridSearchCV to find the best model and optimise the parameters.
+
 # [Titanic Project Overview](https://github.com/nickhill97/titanic)
 
 In this project I attempted the titanic competition on kaggle.com, the data was collected from the kaggle website in CSV form. The final model had an accuracy of 0.78947 on the test set.
