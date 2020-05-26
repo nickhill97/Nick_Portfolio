@@ -8,7 +8,8 @@ The purpose of this project was to use machine learning to predict premier leagu
 - Used a weighted F1 statistic and GridSearchCV to find the best model and optimise the parameters.
 
 <img src='images/football_predictions.png' width='600' />
-
+  
+  
 # [Berlin AirBnb](https://github.com/nickhill97/berlin_airbnb)
 
 The purpose of this project was to create a model that predicts the price a listing on AirBnb in Berlin based on features of the listing. The potential of a model like this could be to help a new host set the price of their listing. The goal would be to create a resource that airbnb hosts could input the information of their property and the model would predict how much the property should be placed on airbnb for. The final model has a mean absolute error of $17.17.
@@ -19,9 +20,11 @@ The purpose of this project was to create a model that predicts the price a list
 - Used GridSearchCV to tune the parameters in the final model.
 
 <img src='images/berlin_airbnb.png'/>
-
+  
+  
 # [Titanic Project Overview](https://github.com/nickhill97/titanic)
-
+  
+  
 In this project I attempted the titanic competition on kaggle.com, the data was collected from the kaggle website in CSV form. The final model had an accuracy of 0.78947 on the test set.
 
 The data was already split into a training and test set, where the test set did not disclose the target variable. The goal of the competition is to produce the best model to predict whether a passenger on the titanic survived or died based on the features. Some of the key parts of this project:
