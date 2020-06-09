@@ -1,3 +1,5 @@
+More detailed reports and the code from each project are available in the GitHub repositories, which can be accessed by using the links.
+
 # [Football Result Prediction Project Overview](https://github.com/nickhill97/football_predictions)
 
 The purpose of this project was to use machine learning to predict premier league results. This could have many uses, for example, betting or management of a premier league team. The best model that I trained to solve this problem was a logistic regression model that predicted whether a team would win or not, this had an accuracy of 0.69.
