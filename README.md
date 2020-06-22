@@ -1,3 +1,9 @@
+My name is Nick Hill, I am a First Class MSci Mathematics graduate from the University of Birmingham. Currently working remotely as a Software Developer for a tech start-up company in Bristol.
+
+Over the past year I have developed my data science skills by completing online courses and building a portfolio of work. I have produced summaries of the projects I have completed to highlight some key aspects of each project. 
+
+Further information about my education and experience can be found on my [LinkedIn profile.](https://www.linkedin.com/in/nicholas-hill-a74722145/)
+
 More detailed reports and the code from each project are available in the GitHub repositories, which can be accessed by using the links.
 
 # [Football Result Prediction Project Overview](https://github.com/nickhill97/football_predictions)
