@@ -17,7 +17,10 @@ The purpose of this project was to use machine learning to predict premier leagu
 
 <img src='images/football_predictions.png' width='600' />
   
-  
+# [Disaster Tweets Topic Classifier](https://github.com/nickhill97/disaster_tweets_nlp)
+
+The purpose of this project was to explore NLP concepts and apply them to a data set. The data was found on a kaggle competition and the goal of the project was to analyse the tweets to classify the topic, i.e whether the tweet was about a natural disaster or not. I trained a multinomial Naive Bayes model that had an accuracy of 0.80.
+
 # [Berlin AirBnb](https://github.com/nickhill97/berlin_airbnb)
 
 The purpose of this project was to create a model that predicts the price a listing on AirBnb in Berlin based on features of the listing. The potential of a model like this could be to help a new host set the price of their listing. The goal would be to create a resource that airbnb hosts could input the information of their property and the model would predict how much the property should be placed on airbnb for. The final model has a mean absolute error of $17.17.
