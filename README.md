@@ -1,6 +1,6 @@
-My name is Nick Hill, I am a First Class MSci Mathematics graduate from the University of Birmingham. Currently working remotely as a Software Developer for a tech start-up company in Bristol.
+My name is Nick Hill, I am a First Class MSci Mathematics graduate from the University of Birmingham now living in London. I am currently working remotely as a Software Developer for a tech start-up company in Bristol. In this role I have been a part of a small team of developers creating web apps and REST API for clients and an e-commerce app designed to provide independent businesses a place to trade online during the COVID-19 pandemic.
 
-Over the past year I have developed my data science skills by completing online courses and building a portfolio of work. I have produced summaries of the projects I have completed to highlight some key aspects of each project. 
+I am passionate about machine learning, data science and computer science. Over the past year and a half I have developed my data science skills by completing online courses, reading blog posts and papers and finally, building a portfolio of machine learning projects. I have produced summaries of the projects I have completed to highlight some key aspects of each project. 
 
 Further information about my education and experience can be found on my [LinkedIn profile.](https://www.linkedin.com/in/nicholas-hill-a74722145/)
 
@@ -32,7 +32,17 @@ The purpose of this project was to create a model that predicts the price a list
 
 # [Disaster Tweets Topic Classifier](https://github.com/nickhill97/disaster_tweets_nlp)
 
-The purpose of this project was to explore NLP concepts and apply them to a data set. The data was found on a kaggle competition and the goal of the project was to analyse the tweets to classify the topic, i.e whether the tweet was about a natural disaster or not. I trained a multinomial Naive Bayes model that had an accuracy of 0.80.
+This was a short project which I used to explore NLP concepts and apply them to a real world data set. The data was found on a kaggle competition and the goal of the project was to analyse the tweets to classify the topic, i.e whether the tweet was about a natural disaster or not. 
+
+During this project I explored some of following concepts:
+
+- Tokenisation
+- Normalisation
+- Stemming
+- Lemmatisation
+- TF-IDF
+
+Finally, I trained a multinomial Naive Bayes model that had an accuracy of 0.80.
 
   
 # [Titanic Project Overview](https://github.com/nickhill97/titanic)
